@@ -125,7 +125,7 @@ h1.name {
 }
 
 .lead {
-	font-size: 44px;
+	font-size: 30px;
 	font-weight: 300;
 	margin-top: 60px;
 	line-height: 55px;
@@ -190,7 +190,7 @@ h1.name {
 .cards {
 	max-width: 1120px;
 	display: block;
-	margin-top: 580px; /* mory */
+	margin-top: 680px; /* mory */
 }
 
 .card {
@@ -451,5 +451,15 @@ li .description {
 	}
 	}
 
+
+
+
+.sections h2 {
+    width: max-content; /* or: display: inline-block;*/
+	background-color: #d1d1d1;
+
+	padding: 10px;
+	border-radius: 5px;
+}
 
 /* End of all :P*/
